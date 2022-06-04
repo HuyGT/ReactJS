@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HuyGT/ReactJs.git/static/css/main.57d6e0dc.css",
-    "main.js": "/HuyGT/ReactJs.git/static/js/main.e9dfd8ff.js",
-    "static/js/787.f3d7924f.chunk.js": "/HuyGT/ReactJs.git/static/js/787.f3d7924f.chunk.js",
-    "index.html": "/HuyGT/ReactJs.git/index.html",
-    "main.57d6e0dc.css.map": "/HuyGT/ReactJs.git/static/css/main.57d6e0dc.css.map",
-    "main.e9dfd8ff.js.map": "/HuyGT/ReactJs.git/static/js/main.e9dfd8ff.js.map",
-    "787.f3d7924f.chunk.js.map": "/HuyGT/ReactJs.git/static/js/787.f3d7924f.chunk.js.map"
+    "main.css": "/ReactJs/static/css/main.57d6e0dc.css",
+    "main.js": "/ReactJs/static/js/main.bcb7ca6c.js",
+    "static/js/787.f3d7924f.chunk.js": "/ReactJs/static/js/787.f3d7924f.chunk.js",
+    "index.html": "/ReactJs/index.html",
+    "main.57d6e0dc.css.map": "/ReactJs/static/css/main.57d6e0dc.css.map",
+    "main.bcb7ca6c.js.map": "/ReactJs/static/js/main.bcb7ca6c.js.map",
+    "787.f3d7924f.chunk.js.map": "/ReactJs/static/js/787.f3d7924f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57d6e0dc.css",
-    "static/js/main.e9dfd8ff.js"
+    "static/js/main.bcb7ca6c.js"
   ]
 }
