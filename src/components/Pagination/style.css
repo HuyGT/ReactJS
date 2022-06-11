@@ -1,8 +1,9 @@
 .pagination-wrapper {
   width: 200px;
-  margin: 0 auto;
+  margin: 20px auto;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .btn--active {
