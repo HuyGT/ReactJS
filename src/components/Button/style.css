@@ -18,9 +18,7 @@
 }
 
 .btn__completed {
-    display: block;
     color: rgb(8, 245, 87);
-    margin-top: 4px;
 }
 
 .btn__delete {
