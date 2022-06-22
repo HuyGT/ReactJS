@@ -1,14 +1,5 @@
-import React, { Component } from 'react'
+import React from "react";
 
-export default class title extends Component {
-  constructor(props) {
-    super(props);
-    this.props = props;
-  }
-
-  render() {
-    return (
-      <h2 style={{textAlign: 'center'}}>{this.props.title}</h2>
-    )
-  }
+export default function title(props) {
+  return <h2 style={{ textAlign: "center" }}>{props.title}</h2>;
 }

@@ -5,7 +5,14 @@
     align-items: center;
     gap: 20px;
 }
+
 .list-wrapper {
     padding: 0 20px;
     height: 400px;
-  }
+}
+
+.max-line {
+    max-width: 450px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
